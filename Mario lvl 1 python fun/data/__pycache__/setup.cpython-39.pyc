@@ -1,0 +1,7 @@
+a
+    
+—ªaÃ  „                   @   s‘   d Z ddlZddlZddlmZ ddlmZ ejZdej	d< e†
+°  ej†ejejejg° ej†ej° ej†ej°Ze†° Ze†ej†dd	°°Ze†ej†dd
+°°Ze†ej†dd°°Ze†ej†dd°°Z dS )⁄AnomalyÈ    NÈ   )⁄tools)⁄	constants⁄1ZSDL_VIDEO_CENTEREDZ	resources⁄fonts⁄musicZgraphics⁄sound)!⁄
+__author__⁄os⁄pygame⁄pg⁄ r   r   ⁄c⁄ORIGINAL_CAPTION⁄environ⁄init⁄event⁄set_allowed⁄KEYDOWN⁄KEYUP⁄QUIT⁄display⁄set_caption⁄set_modeZSCREEN_SIZEZSCREEN⁄get_rectZSCREEN_RECTZload_all_fonts⁄path⁄joinZFONTSZload_all_musicZMUSICZload_all_gfxZGFXZload_all_sfxZSFX© r   r   ˙Jc:\Users\DrThompson\OneDrive\Desktop\Fucking with Mario bros\data\setup.py⁄<module>   s   
+
